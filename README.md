@@ -71,8 +71,13 @@ The YouTube Data Harvesting and Warehousing project provides a powerful tool for
 References
 
 Streamlit Documentation: https://docs.streamlit.io/
+
 YouTube API Documentation: https://developers.google.com/youtube
+
 MongoDB Documentation: https://docs.mongodb.com/
+
 SQLAlchemy Documentation: https://docs.sqlalchemy.org/
+
 Python Documentation: https://docs.python.org/
+
 Matplotlib Documentation: https://matplotlib.org/
